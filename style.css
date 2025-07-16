@@ -35,7 +35,7 @@ header {
 }
 
 .logo {
-    height: 90px; /* Tinggi logo */
+    height: 120px; /* Tinggi logo */
     width: auto; /* Lebar otomatis agar proporsional */
     margin-bottom: 15px;
     filter: drop-shadow(0 0 5px rgba(255,255,255,0.2)); /* Efek bayangan ringan pada logo */
